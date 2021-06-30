@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Mushin Ecosystem</title>
+        <title>Shoodi</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -116,7 +116,6 @@
         <div class="flex-center ">
           
                
-                <img src="/logo.svg" height = "400" width = "400"> </img>
                 </div>
               
 
@@ -128,7 +127,7 @@
                 Welcome to
                 </div>
                 <div class="title2 m-b-md">
-                Mushin  
+                Shoodi  
                 </div>
                 <div class="content2" >
                 
